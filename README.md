@@ -1,2 +1,2 @@
-# A Novel Approach for Immediate, Interactive CT Data Visualization and Evaluation using GPU-based Segmentation and Visual Analysis
-paper page: https://aardvark-community.github.io/interactive-segmentation/
+# Adaptive Pointcloud Segmentation for Assisted Interactions
+paper page: https://aardvark-community.github.io/shape-assisted-interactions-i3d19
